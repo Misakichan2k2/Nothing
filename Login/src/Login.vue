@@ -1,3 +1,5 @@
+<script setup></script>
+
 <template>
     <section>
         <div class="form-box">
@@ -15,7 +17,7 @@
                         <label for="">Password</label>
                     </div>
                     <div class="forget">
-                        <label for=""><input type="checkbox">Remember Me<a href="#">Forget Password</a></label>
+                        <label for=""><a href="#">Forget Password</a></label>
                       
                     </div>
                     <button>Log in</button>
